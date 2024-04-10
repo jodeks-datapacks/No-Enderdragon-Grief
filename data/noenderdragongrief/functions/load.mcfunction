@@ -1,0 +1,1 @@
+tellraw @a {"text":"Datapack No Enderdragon Grief loaded!"}
